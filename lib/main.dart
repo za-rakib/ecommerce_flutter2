@@ -15,7 +15,7 @@ void main() {
             ),
           ),
           child: const Center(
-            child: Text("ZA Rakib  nfkjhbhda"),
+            child: Text("ZA Rakib"),
           ),
         ),
       ),
